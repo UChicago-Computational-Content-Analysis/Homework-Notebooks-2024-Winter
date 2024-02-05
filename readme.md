@@ -19,4 +19,5 @@ We suggest cloning this repository to your local machine, but you can also go to
 | [Week 3 Colab](https://drive.google.com/file/d/1s-PsShm-32gvO-snkN2vga1XOGcp_xJT/view?usp=sharing) | [Week 3 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks-2024-Winter/tree/main/week%203) |
 | [Week 4 Colab](https://drive.google.com/file/d/1htkd76Q3EOQTHc3qOyKAjvMveFnugnRo/view?usp=sharing) | [Week 4 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks-2024-Winter/tree/main/week%204) |
 | [Week 5 Colab](https://colab.research.google.com/drive/1ERUXjsCfBVgaYwwU0c8c3xWFfonjhmeX?usp=sharing) | [Week 5 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks-2024-Winter/tree/main/week%205) |
+| [Week 6 Colab](https://colab.research.google.com/drive/1tsYMCgNs_wYoS0JzjIw2MdPSeQKXqdPS?usp=sharing) | [Week 5 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks-2024-Winter/tree/main/week%206) |
 
